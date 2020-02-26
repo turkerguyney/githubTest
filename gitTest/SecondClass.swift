@@ -10,5 +10,5 @@ import Foundation
 
 
 class SecondClass {
-    
+    var stringDeger:String = "asdasd"
 }
