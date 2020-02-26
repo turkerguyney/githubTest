@@ -14,6 +14,7 @@
 		B24090F32405723F00600185 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B24090F22405723F00600185 /* Preview Assets.xcassets */; };
 		B24090F62405723F00600185 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B24090F42405723F00600185 /* LaunchScreen.storyboard */; };
 		B24090FE2406AAD000600185 /* SecondClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24090FD2406AAD000600185 /* SecondClass.swift */; };
+		B24091002406AF7D00600185 /* SecondDiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24090FF2406AF7D00600185 /* SecondDiger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B24090F52405723F00600185 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B24090F72405723F00600185 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B24090FD2406AAD000600185 /* SecondClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondClass.swift; sourceTree = "<group>"; };
+		B24090FF2406AF7D00600185 /* SecondDiger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondDiger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B24090F42405723F00600185 /* LaunchScreen.storyboard */,
 				B24090F72405723F00600185 /* Info.plist */,
 				B24090F12405723F00600185 /* Preview Content */,
+				B24090FF2406AF7D00600185 /* SecondDiger.swift */,
 			);
 			path = gitTest;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				B24090EA2405723E00600185 /* AppDelegate.swift in Sources */,
 				B24090EC2405723E00600185 /* SceneDelegate.swift in Sources */,
+				B24091002406AF7D00600185 /* SecondDiger.swift in Sources */,
 				B24090FE2406AAD000600185 /* SecondClass.swift in Sources */,
 				B24090EE2405723E00600185 /* ContentView.swift in Sources */,
 			);
