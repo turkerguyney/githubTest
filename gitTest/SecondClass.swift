@@ -11,4 +11,5 @@ import Foundation
 
 class SecondClass {
     var stringDeger:String = "asdasd"
+    var branchdakiYeni:String = "Yeni"
 }
